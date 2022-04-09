@@ -1,6 +1,6 @@
 # OFFLINE_VOTING
 NodeJS App for offline voting using USSD
-1. Create MySQL database: offline_pay
+1. Create MySQL database: offline_vote
 2. Run `npm run db:init`
 3. Run `npm run dev`
 ## Some commands to run
